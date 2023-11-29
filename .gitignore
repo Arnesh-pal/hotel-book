@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Build files
+build/
+dist/
+*.log
+
+# Environment variables
+.env
+
+# Render specific files (if any)
+render.yaml
+
+# IDE files
+.idea/
+.vscode/
+
+# Dependency directories
+demo/node_modules/
+
+# Compiled binary addons
+node_modules/*/build/Release
